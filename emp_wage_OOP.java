@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class employee_wage_UC_2 {
+public class employee_wage_OOP {
 
     public static void main(String[] args) {
         // Creating an Instance of class Employee_check
